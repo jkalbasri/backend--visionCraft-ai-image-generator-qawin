@@ -1,5 +1,4 @@
-# Image_generator
-# VisionCraft - AI Image Generation Platform 🎨
+# VisionCraft - AI Image Generation
 
 ![VisionCraft Banner](img)
 
