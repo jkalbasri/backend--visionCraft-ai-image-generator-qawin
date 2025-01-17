@@ -1,21 +1,16 @@
 # VisionCraft - AI Image Generation
 
-![VisionCraft Banner](img)
-
-
 ## 🌟 Overview
 
 VisionCraft is a powerful AI-powered image generation platform that transforms your textual descriptions into stunning visual artwork. Built with React.js and Node.js, it leverages OpenAI's DALL-E API to create unique images from user prompts.
 
-[Visit VisionCraft](https://frontend-vision-craft-ai-image-generator-qawin.vercel.app/)
-
 ## Demo Screenshot
-
-![Screenshot 1](img)
-
-![Screenshot 2](img)
-
-
+<a href="https://frontend-vision-craft-ai-image-generator-qawin.vercel.app" target="blank" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="readme.png">
+    <img alt="READMEs Screenshot" src="readme.png">
+  </picture>
+</a>
 
 ## ✨ Features
 
@@ -103,15 +98,6 @@ visioncraft/
     ├── models/          # Database models
     └── routes/          # API routes
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 ## 🙏 Acknowledgments
 
